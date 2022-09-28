@@ -1,0 +1,2 @@
+C:\TMA П-30\TMA_P30_LB4.1\Debug\TMA_P30_LB4.1.exe
+C:\TMA П-30\TMA_P30_LB4.1\Debug\TMA_P30_LB4.1.pdb

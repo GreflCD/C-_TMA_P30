@@ -1,0 +1,4 @@
+﻿  TMA_P30_LB4.1.cpp
+C:\TMA П-30\TMA_P30_LB4.1\TMA_P30_LB4.1.cpp(66,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\TMA П-30\TMA_P30_LB4.1\TMA_P30_LB4.1.cpp(67,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TMA_P30_LB4.1.vcxproj -> C:\TMA П-30\TMA_P30_LB4.1\Debug\TMA_P30_LB4.1.exe
